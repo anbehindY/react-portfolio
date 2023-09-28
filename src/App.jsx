@@ -7,7 +7,7 @@ import Profile from './assets/profile.png'
 function App() {
 	return (
 		<>
-			<section className='min-h-screen bg-white px-10'>
+			<section className='min-h-screen bg-white px-10' id='intro'>
 				<nav className='py-10 mb-12 flex justify-between'>
 					<h1 className='text-3xl text-slate-700 font-semibold'>Hello there 👋</h1>
 					<ul className='flex items-center'>

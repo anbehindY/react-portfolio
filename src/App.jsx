@@ -49,7 +49,7 @@ function App() {
 				<div>
 					<h2 className='px-4 text-3xl font-bold text-slate-700'>About me</h2>
 					<p className='px-6 py-4'>
-					Hello, my name is Yan Min Thwin, and I'm a full-stack developer proficient in HTML, CSS, Tailwind, JavaScript, React, Redux, and Ruby on Rails. Previously, I was a medical student studying at the University of Medicine (1) in Myanmar. During the COVID-19 pandemic, all the universities were shut down, and since then I started to learn programming and decided to switch my career completely.
+					Hello, my name is Yan Min Thwin, you can also call me Alfie. I'm a full-stack developer proficient in HTML, CSS, Tailwind, JavaScript, React, Redux, and Ruby on Rails. Previously, I was a medical student studying at the University of Medicine (1) in Myanmar. During the COVID-19 pandemic, all the universities were shut down, and since then I started to learn programming and decided to switch my career completely.
 I’m currently pair-programming with remote professionals from all over the world through the Microverse program. I recently built a website for a local clinic where patients can view the list of doctors with their details, and where patients can make a reservation for their needs. I really enjoy building beautiful websites with efficient features and I believe these kinds of websites will bring the audience wherever we want to.
 					</p>
 				</div>

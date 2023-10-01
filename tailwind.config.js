@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        burtons: "burtons",
+        burtons: "Burtons",
+        greeting: ['Noto Sans', 'sans-serif'],
       },
     },
   },

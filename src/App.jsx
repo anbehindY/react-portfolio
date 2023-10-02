@@ -22,7 +22,7 @@ function App() {
 								href='#'
 								className='bg-sky-800 text-white px-4 py-2 rounded-md ml-8'
 							>
-								Resume
+								About me
 							</a>
 						</li>
 					</ul>
